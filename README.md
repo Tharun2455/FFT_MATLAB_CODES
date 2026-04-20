@@ -1,1 +1,2 @@
 IF YOU WANT CHANGE YOUR FUNCTION PLEASE REPLACE X WITH YOUR FUNCTION .WORKING CODE .
+noise removal of noisy signal is possible 
